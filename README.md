@@ -1,4 +1,4 @@
-# Ecoleta
+# Ecoleta - Rocketseat
 
 Projeto desenvolvido para fins de aprendizado.
 
